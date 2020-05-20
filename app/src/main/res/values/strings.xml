@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Today</string>
+    <string name="not_log_in" />
+    <string name="not_close_session" />
+    <string name="not_revoke" />
+    <string name="log_out" />
+    <string name="revoke" />
+</resources>

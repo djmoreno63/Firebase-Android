@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "765930655891",
+    "firebase_url": "https://today-3316d.firebaseio.com",
+    "project_id": "today-3316d",
+    "storage_bucket": "today-3316d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765930655891:android:f6366ad84427f5acb1bd66",
+        "android_client_info": {
+          "package_name": "com.example.today"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765930655891-it77v1h6bjddreigm7oc1511tg4u247a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVD7YkRwaafb4q-R3hE3iOOBwbXCS2nMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765930655891-it77v1h6bjddreigm7oc1511tg4u247a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
